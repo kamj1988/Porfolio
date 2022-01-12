@@ -7,11 +7,11 @@ Obecnie jestem w trakcie kursu TESTERA OPROGRAMOWANIA w Software Development Aca
 * Git
 * TestRail
 * MySQL
-##Kursy
+## Kursy
 * **Tester Oprogramowania** w Software Development Academy
-##Grupy testerskie
+## Grupy testerskie
 * testowanie oprogramowania
-##Blogi, strony tematyczne
+## Blogi, strony tematyczne
 * https://remigiuszbednarczyk.pl/portfolio-testera
 * https://sdacademy.pl/wydarzenia/
 ##Dokumentacja testowania
